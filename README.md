@@ -1,13 +1,10 @@
 # 👋 Hi, I'm Jayyy-mark
 ### Full-Stack Developer | Software Engineer | AI Engineer
 I build **web applications, backend systems, APIs, and AI-powered applications** with a focus on clean architecture, scalable systems, and practical solutions.
-I'm particularly interested in:
-* 🚀 Full-stack web development
-* ⚙️ Backend engineering & API development
-* 🤖 AI & LLM applications
-* 🧠 RAG & AI agents
-* 🗄️ Database architecture
-* ☁️ Deployment & DevOps
+📌 Current Focus
+I'm currently focusing on becoming a stronger software engineer and AI engineer, with an emphasis on:
+
+Backend Architecture → AI Engineering → Scalable Systems → Production Deployment
 ---
 
 ## 🛠️ Tech Stack
