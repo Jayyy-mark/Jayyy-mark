@@ -36,7 +36,3 @@ I'm currently focusing on becoming a stronger **software engineer and AI enginee
 **Backend Architecture → AI Engineering → Scalable Systems → Production Deployment**
 
 ---
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, building interesting projects, and exploring new ideas in software engineering and AI.
