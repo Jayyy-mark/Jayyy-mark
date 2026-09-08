@@ -24,13 +24,3 @@ LLMs · RAG · LangChain · Transformers · PyTorch · TensorFlow
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-
----
-
-## 📌 Current Focus
-
-I'm currently focusing on becoming a stronger **software engineer and AI engineer**, with an emphasis on:
-
-**Backend Architecture → AI Engineering → Scalable Systems → Production Deployment**
-
----
