@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jayyy-mark
+# 👋 Hi, I'm Naing Ye Htut
 ### Full-Stack Developer | Software Engineer | AI Engineer
 
 I build **web applications, backend systems, APIs, and AI-powered applications** with a focus on clean architecture, scalable systems, and practical solutions.
